@@ -1,0 +1,1 @@
+update 表名 set 列1 = 值1, 列2 = 值2 where 查询条件

@@ -1,0 +1,1 @@
+delete from 表名 where 查询条件;
